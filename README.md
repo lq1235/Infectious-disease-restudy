@@ -26,8 +26,7 @@ BibTex：
 
 @article{wang2025dynamic, title={Dynamic and thermodynamic origins of non-equilibrium phase transitions in infectious disease networks}, author={Wang, Linqi and Zhang, Kun and Xu, Li and Wang, Jin}, journal={The Journal of Chemical Physics}, volume={163}, number={8}, year={2025}, publisher={AIP Publishing} }
 
-**3.For inquiries related to this repository or the associated publication, please contact the first author:
-**
+**3.For inquiries related to this repository or the associated publication, please contact the first author:**
 
 **First author**
 
